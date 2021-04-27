@@ -16,4 +16,13 @@ Support for the Python_initiation @svi course
 ### 2. Download the material for this course (everything in this repository)
 Click on the (only) green button on this page and select the download option of your choosing. (don't worry, you can't break anything)
 
+### 3. Take a look at the basic topics we planned to cover
+<a name="plan"></a>
+
+[<img width="100%" src="./img/svi_python_1.svg"></img>](#plan)
+
+All suggestions for additionnal topics are welcomed!  
+To submit your proposals, you can either use the Teams channel, either open an issue here (a-ha!). (the most voted ones are sure to enter the program)
+
+
 _Note_ : Almost **Everything** we'll do here is covered in [scipy-lectures](https://scipy-lectures.org/), only much better and by way much greater experts in the field.
