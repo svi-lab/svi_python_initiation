@@ -19,7 +19,7 @@ Click on the (only) green button on this page and select the download option of 
 ### 3. Take a look at the basic topics we planned to cover
 <a name="plan"></a>
 
-[<img width="100%" src="./img/svi_python_1.svg"></img>](#plan)
+[<img width="100%" src="./img/course_plan.pdf"></img>](#plan)
 
 All suggestions for additionnal topics are welcomed!  
 To submit your proposals, you can either use the Teams channel, either open an issue here (a-ha!). (the most voted ones are sure to enter the program)
