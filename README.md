@@ -15,3 +15,5 @@ Support for the Python_initiation @svi course
 
 ### 2. Download the material for this course (everything in this repository)
 Click on the (only) green button on this page and select the download option of your choosing. (don't worry, you can't break anything)
+
+_Note_ : Almost **Everything** we'll do here is covered in [scipy-lectures](https://scipy-lectures.org/), much better in much more detailed way and by way much greater experts in the field.
