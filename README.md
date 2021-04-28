@@ -1,5 +1,5 @@
 # svi_python_initiation
-Support for the Python_initiation @svi course
+Support for the _scientific python initiation @svi course_
 
 
 ## Things to do before we begin:
