@@ -1,6 +1,7 @@
 # svi_python_initiation
 Support for the _scientific python initiation @svi course_
-
+<a name="logo"></a>
+[<img width="100px" src="./img/Logo_135_SGCNRSbis.png"></img>](#logo)
 
 ## Things to do before we begin:
 
@@ -19,7 +20,7 @@ Click on the (only) green button on this page and select the download option of 
 ### 3. Take a look at the basic topics we planned to cover
 <a name="plan"></a>
 
-[<img width="100%" src="./img/cours_plan.svg"></img>](#plan)
+[<img width="100%" src="./img/course_plan.svg"></img>](#plan)
 
 All suggestions for additionnal topics are welcomed!  
 To submit your proposals, you can either use the Teams channel, either open an issue here (a-ha!). (the most voted ones are sure to enter the program)
