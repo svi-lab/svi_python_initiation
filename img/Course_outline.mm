@@ -1,6 +1,6 @@
 <map version="freeplane 1.6.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Python initiation @svi" FOLDED="false" ID="ID_1625905411" CREATED="1619385398292" MODIFIED="1620146141269" STYLE="fork">
+<node TEXT="Python initiation @svi" FOLDED="false" ID="ID_1625905411" CREATED="1619385398292" MODIFIED="1620300395030" STYLE="fork">
 <font NAME="Ubuntu Mono" SIZE="10" BOLD="true"/>
 <hook NAME="MapStyle" zoom="1.771">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
@@ -82,25 +82,9 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
-<richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font face="Ubuntu Mono" size="1">10/05/2021 at 9h45 </font>
-    </p>
-    <p>
-      <font face="Ubuntu Mono" size="1">online - Teams</font>
-    </p>
-  </body>
-</html>
-</richcontent>
+<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
 <edge STYLE="bezier" WIDTH="2"/>
-<node TEXT="basics" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1343521454" CREATED="1619385412936" MODIFIED="1620146141267" LINK="./Basics.svg" HGAP_QUANTITY="-32.86818237866002 pt" VSHIFT_QUANTITY="-110.93181657023916 pt">
+<node TEXT="basics" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1343521454" CREATED="1619385412936" MODIFIED="1620300288027" LINK="./Basics.svg" HGAP_QUANTITY="-79.36818099285207 pt" VSHIFT_QUANTITY="-85.43181733019837 pt">
 <edge DASH="SOLID"/>
 <node TEXT="bool" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" ID="ID_696626951" CREATED="1619389117623" MODIFIED="1619427516615" HGAP_QUANTITY="13.999999999999996 pt" VSHIFT_QUANTITY="1.963636346612095 pt">
 <node TEXT="operations" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1923083838" CREATED="1619427522409" MODIFIED="1619428479476"><richcontent TYPE="DETAILS">
@@ -269,58 +253,13 @@
 <node TEXT="scikit-image" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_502482606" CREATED="1619425582385" MODIFIED="1619425588420"/>
 <node TEXT="scikit-learn?" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1920517681" CREATED="1619425589199" MODIFIED="1620045700842"/>
 </node>
-<node TEXT="loading data" LOCALIZED_STYLE_REF="styles.topic" FOLDED="true" POSITION="right" ID="ID_1051929587" CREATED="1619426074353" MODIFIED="1620045816396" HGAP_QUANTITY="35.599999812733046 pt" VSHIFT_QUANTITY="48.763635940867026 pt">
-<hook NAME="FreeNode"/>
-<node TEXT="text files" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_473996763" CREATED="1619426096910" MODIFIED="1619454454420"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      csv, txt, dat...
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="excel" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1652581751" CREATED="1619454461549" MODIFIED="1619454500268"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      pandas
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="hdf5" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1330371389" CREATED="1619454472744" MODIFIED="1619454488054"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      h5py
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="working with spectra" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1147522905" CREATED="1620045344875" MODIFIED="1620045819193" HGAP_QUANTITY="-14.472727025875376 pt" VSHIFT_QUANTITY="72.98181754908286 pt">
+<node TEXT="working with spectra" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1147522905" CREATED="1620045344875" MODIFIED="1620300338317" HGAP_QUANTITY="-37.7227263329714 pt" VSHIFT_QUANTITY="63.98181781730376 pt">
 <hook NAME="FreeNode"/>
 </node>
 <node TEXT="working with images" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1889114355" CREATED="1620045357354" MODIFIED="1620045820720" HGAP_QUANTITY="20.21818176427163 pt" VSHIFT_QUANTITY="100.47272640165218 pt">
 <hook NAME="FreeNode"/>
 </node>
-<node TEXT="tools" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_856349928" CREATED="1619452573648" MODIFIED="1620045555494" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="-50.072726838608425 pt">
+<node TEXT="tools" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_856349928" CREATED="1619452573648" MODIFIED="1620300328577" HGAP_QUANTITY="-16.654544554801056 pt" VSHIFT_QUANTITY="-47.82272690566365 pt">
 <node TEXT="conda / mamba" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" ID="ID_881555218" CREATED="1619452592357" MODIFIED="1619452635515">
 <node TEXT="environments" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_531785085" CREATED="1619452665015" MODIFIED="1619452973698"><richcontent TYPE="DETAILS">
 
@@ -365,6 +304,50 @@
 <node TEXT="jupyter" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" ID="ID_946826232" CREATED="1619452616566" MODIFIED="1619452618765">
 <node TEXT="markdown" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_421919577" CREATED="1619453467859" MODIFIED="1619453476682"/>
 <node TEXT="code" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_360171510" CREATED="1619453477549" MODIFIED="1619453482059"/>
+</node>
+</node>
+<node TEXT="loading data" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1051929587" CREATED="1619426074353" MODIFIED="1620300567367" HGAP_QUANTITY="134.74999640136969 pt" VSHIFT_QUANTITY="26.99999919533732 pt">
+<hook NAME="FreeNode"/>
+<node TEXT="text files" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_473996763" CREATED="1619426096910" MODIFIED="1619454454420"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      csv, txt, dat...
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="other" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1652581751" CREATED="1619454461549" MODIFIED="1620300567366" HGAP_QUANTITY="9.500000134110447 pt" VSHIFT_QUANTITY="17.249999485909953 pt"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      excel
+    </p>
+    <p>
+      images, videos
+    </p>
+    <p>
+      proprietary binaries
+    </p>
+    <p>
+      hdf5
+    </p>
+    <p>
+      online ressources
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
 </node>
