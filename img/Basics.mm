@@ -1,6 +1,6 @@
 <map version="freeplane 1.6.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="basics" LOCALIZED_STYLE_REF="styles.topic" FOLDED="false" ID="ID_1343521454" CREATED="1619385412936" MODIFIED="1620144266749" LINK="Course_outline.mm" HGAP_QUANTITY="-78.61818101520382 pt" VSHIFT_QUANTITY="-80.18181748666055 pt">
+<node TEXT="basics" LOCALIZED_STYLE_REF="styles.topic" FOLDED="false" ID="ID_1343521454" CREATED="1619385412936" MODIFIED="1620318099427" LINK="Course_outline.mm" HGAP_QUANTITY="-78.61818101520382 pt" VSHIFT_QUANTITY="-80.18181748666055 pt">
 <edge DASH="SOLID"/>
 <hook NAME="MapStyle" zoom="1.771">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
@@ -82,7 +82,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="32" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="33" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="strings" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_629612889" CREATED="1619385840662" MODIFIED="1620144210858" HGAP_QUANTITY="-27.249998770654237 pt" VSHIFT_QUANTITY="-13.49999959766866 pt">
 <node TEXT="create" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_537059936" CREATED="1620078878300" MODIFIED="1620114688300"><richcontent TYPE="DETAILS">
 
@@ -139,7 +139,7 @@
 </node>
 </node>
 </node>
-<node TEXT="sequences" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_143379748" CREATED="1619385744210" MODIFIED="1620144079879" HGAP_QUANTITY="30.499999508261695 pt" VSHIFT_QUANTITY="-32.24999903887513 pt"><richcontent TYPE="DETAILS">
+<node TEXT="sequences" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_143379748" CREATED="1619385744210" MODIFIED="1620318118865" HGAP_QUANTITY="14.0 pt" VSHIFT_QUANTITY="-10.499999687075626 pt"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -148,6 +148,9 @@
   <body>
     <p>
       tuple, range, list
+    </p>
+    <p>
+      dict, set
     </p>
   </body>
 </html>
@@ -179,6 +182,47 @@
 </richcontent>
 </node>
 <node TEXT="list comprehensions" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_291291631" CREATED="1620048761007" MODIFIED="1620048865455"/>
+<node TEXT="dict, set" LOCALIZED_STYLE_REF="styles.subsubtopic" FOLDED="true" ID="ID_886763728" CREATED="1619385759641" MODIFIED="1620318090751"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      {}, dict()
+    </p>
+    <p>
+      set()
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="dict operations" LOCALIZED_STYLE_REF="styles.subsubtopic" FOLDED="true" ID="ID_1420317096" CREATED="1620045754126" MODIFIED="1620115738994"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      get, items, keys,
+    </p>
+    <p>
+      iteration (for k,v in dict)
+    </p>
+    <p>
+      fromkeys(seq, [seq|value])
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="{**dict1, **dict2}" ID="ID_1979508250" CREATED="1620312276281" MODIFIED="1620312294134"/>
+</node>
+<node TEXT="set operations" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_950908712" CREATED="1619425202626" MODIFIED="1620144147796"/>
+</node>
 </node>
 <node TEXT="functions" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1776582862" CREATED="1620143776528" MODIFIED="1620144217490" HGAP_QUANTITY="-23.49999888241295 pt" VSHIFT_QUANTITY="63.74999810010202 pt">
 <hook NAME="FreeNode"/>
@@ -243,46 +287,6 @@
 </html>
 
 </richcontent>
-</node>
-<node TEXT="dict, set" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_886763728" CREATED="1619385759641" MODIFIED="1620144129440"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      {}, dict()
-    </p>
-    <p>
-      set()
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="dict operations" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1420317096" CREATED="1620045754126" MODIFIED="1620115738994"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      get, items, keys,
-    </p>
-    <p>
-      iteration (for k,v in dict)
-    </p>
-    <p>
-      fromkeys(seq, [seq|value])
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="set operations" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_950908712" CREATED="1619425202626" MODIFIED="1620144147796"/>
 </node>
 </node>
 </map>
