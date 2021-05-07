@@ -7,9 +7,9 @@ Support for the _scientific python initiation @svi course_
 
 ### 1. Create a new conda environment on your computer
 * Open the Anaconda prompt.  
-* type `conda create -n svi_formation python=3.9`  
+* type `conda create -n svi_formation python=3.9`, (press enter to run the command)  
 * then type `conda activate svi_formation`  
-  * optionally: `conda install -c conda-forge mamba`  
+  * optionnally: `conda install -c conda-forge mamba`  
 * then*: `conda install scipy numpy matplotlib scikit-image scikit-learn spyder jupyterlab ipympl`  
   * *if you decided to install mamba, replace `conda` with `mamba` in previous line.  
 
